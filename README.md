@@ -16,6 +16,8 @@ Hi 👋! My name is Ilham Kurnia Bakhtiar i'm a Computer Science student passion
 
 ![](https://nirzak-streak-stats.vercel.app/?user=IlhamKurniaBakhtiar&theme=dark&hide_border=false)<br/>
 
+---
+
 ###  Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=IlhamKurniaBakhtiar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
