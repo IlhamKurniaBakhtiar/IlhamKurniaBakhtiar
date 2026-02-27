@@ -1,7 +1,7 @@
 # Hi and Welcome 
 
 <div align="center">
-  <img src="[https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s500x750/e72f5f9deb0450d7b1ae7fbd5b636e6e71120548.gif](https://giffiles.alphacoders.com/610/61077.gif)" alt="MasterHead" />
+  <img src="https://giffiles.alphacoders.com/610/61077.gif" alt="MasterHead" />
 </div>
 
 #  About Me:
